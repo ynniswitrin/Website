@@ -1,0 +1,191 @@
+body{
+	font-family: HelveticaNeue-Light;
+	margin: 0px 0px 0px 0px;
+}
+
+#landing{
+	height:600px;
+	width: 100%;
+	/* background-image: url(http://www.stgm-melk.at/home/hero.jpg); */
+	background-image:  url(gras.jpg);
+
+}
+
+#foto{
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;
+	background-color: #FFFFFF;
+	margin: 75px auto 15px;
+}
+
+#imgme{
+	background-image: url(me.png);
+	background-size: 275px 275px;
+	height: 300px;
+	width: 300px;
+	display: block;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+#about{
+	text-align: center;
+}
+
+#name{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	font-family: HelveticaNeue-UltraLight;
+}
+
+#me{
+	color: white;
+	font-size: 20px;
+}
+
+.section{
+	height: 400px;
+	width: 100%;
+	padding: 20px 0px 20px 20px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	font-size: 20px;
+}
+
+h2{
+	color: gray;
+	text-align: left;
+	font-size: 50px;
+	font-family: HelveticaNeue-UltraLight;
+	font-weight: normal;
+	width: 62%;
+	margin: 20px 0px 20px 0px;
+}
+
+.description{
+	text-align: justify;
+	width: 62%;
+	margin: auto 0px;
+	
+}
+
+#wrapperklopa{
+	width: 38%;
+	float: right;
+}
+
+#imgklopa{
+	margin: 40px auto;
+	display: block;
+}
+
+footer{
+	height: 300px;
+	width: 100%;
+	padding: 20px 20px 20px 20px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	font-size: 20px;
+	background-color: rgb(230, 230, 230);
+}
+
+h3{
+	color: #444444;
+	text-align: center;
+	font-size: 50px;
+	font-family: HelveticaNeue-UltraLight;
+	font-weight: normal;
+	width: 100%;
+	margin: 15px 0px 20px 0px;
+}
+
+#credit{
+	color: #999999;
+	font-size: 15px;
+	text-align: center;
+	width: 100%;
+	display: block;
+	margin: auto;
+}
+
+#contact{
+	width: 100%;
+	height: 241px;
+
+}
+
+#dribbble{
+	background-image: url(dribbble.png);
+	background-size: 40px 40px;
+	height: 40px;
+	width: 40px;
+	display: block;
+	float: left;
+	margin-left: 40px;
+}
+
+#dribbble:hover{
+	background-image: url(dribbblepink.png);
+	background-size: 40px 40px;
+	height: 40px;
+	width: 40px;
+	display: block;
+	float: left;
+	margin-left: 40px;
+}
+
+#twitter{
+	background-image: url(twitter.png);
+	background-size: 40px 33px;
+	height: 40px;
+	width: 40px;
+	display: block;
+	float: left;
+	margin-left: 40px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#twitter:hover{
+	background-image: url(twitterblue.png);
+	background-size: 40px 33px;
+	height: 40px;
+	width: 40px;
+	display: block;
+	float: left;
+	margin-left: 40px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#icons{
+	margin: 70px auto;
+	height: 40px;
+	width: 200px;
+}
+
+#mail{
+	background-image: url(mail.png);
+	background-size: 40px 40px;
+	height: 40px;
+	width: 40px;
+	display: block;
+	float: left;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#mail:hover{
+	background-image: url(mailgreen.png);
+	background-size: 40px 40px;
+	height: 40px;
+	width: 40px;
+	display: block;
+	float: left;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
