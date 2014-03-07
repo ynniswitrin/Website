@@ -6,7 +6,7 @@ body{
 #landing{
 	height:600px;
 	width: 100%;
-	/* background-image: url(http://www.stgm-melk.at/home/hero.jpg); */
+	/* background-image: url(http://www.stgm-melk.at/home/stone.jpg); */
 	background-image:  url(gras.jpg);
 
 }
@@ -15,7 +15,7 @@ body{
 	height: 300px;
 	width: 300px;
 	border-radius: 150px;
-	background-color: #FFFFFF;
+	background-color: white;
 	margin: 75px auto 15px;
 }
 
@@ -27,6 +27,10 @@ body{
 	display: block;
 	background-repeat: no-repeat;
 	background-position: center;
+}
+
+#imgme:hover{
+	background-image: url(logo.png);
 }
 
 
@@ -46,6 +50,17 @@ body{
 	font-size: 20px;
 }
 
+
+#arrow{
+	width: 100%;
+	background-image: url(arrow.png);
+	background-size: 90px 40px;
+	background-position: center;
+	height: 40px;
+	background-repeat: no-repeat;
+	margin: 22px 0px;
+}
+
 .section{
 	height: 400px;
 	width: 100%;
@@ -56,7 +71,7 @@ body{
 }
 
 h2{
-	color: gray;
+	color: black;
 	text-align: left;
 	font-size: 50px;
 	font-family: HelveticaNeue-UltraLight;
@@ -69,18 +84,25 @@ h2{
 	text-align: justify;
 	width: 62%;
 	margin: auto 0px;
+	color: gray;
 	
 }
 
 #wrapperklopa{
 	width: 38%;
+	height: 100%;
 	float: right;
 }
 
 #imgklopa{
 	margin: 40px auto;
 	display: block;
+	background-image: url(klopa.png);
+	background-size: 199px 281px;
+	height: 281px;
+	width: 199px;
 }
+
 
 footer{
 	height: 300px;

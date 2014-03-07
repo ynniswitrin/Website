@@ -1,0 +1,20 @@
+body{
+	font-family: HelveticaNeue-Light;
+	margin: 0px 0px 0px 0px;
+}
+
+header{
+	height:50px;
+	width: 100%;
+	border-bottom: 1px solid rgb(200,200,200);
+	background-color: rgb(240,240,240);
+}
+
+#left{
+	height: 25px;
+	width: 15px;
+	margin: 13px 0px 13px 10px;
+	background-image: url(left.png);
+	background-size: 15px 25px;
+	background-repeat: no-repeat;
+}
