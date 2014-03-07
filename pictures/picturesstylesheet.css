@@ -1,4 +1,5 @@
 body{
+	/* font-family: url(HelveticaNeueThin.ttf); */
 	font-family: HelveticaNeue-Light;
 	margin: 0px 0px 0px 0px;
 }
@@ -8,11 +9,12 @@ header{
 	width: 100%;
 	border-bottom: 1px solid rgb(200,200,200);
 	background-color: rgb(240,240,240);
-	padding: 13px;
+	/* padding: 13px; */
 	box-sizing:border-box;
 }
 
 #left{
+	margin:13px 0px 13px 13px;
 	height: 25px;
 	width: 15px;
 	background-image: url(left.png);
@@ -24,6 +26,54 @@ header{
 #back{
 	float: left;
 	margin-left: 5px;
-	line-height: 25px;
+	line-height: 50px;
 	font-size: 15px;
+	color: rgb(100,100,100);
+	text-decoration: none;
+
 }
+
+#logo{
+	float: right;
+	background-image: url(logo.png);
+	background-position: center;
+	background-size: 48px 48px;
+	background-repeat: no-repeat;
+	display: block;
+	width: 49px;
+	height: 49px;
+	margin-right: 13px;
+}
+
+#title{
+	color: rgb(100,100,100);
+	/* float: left; */
+	text-align: center;
+	line-height: 50px;
+	font-size: 35px;
+	margin: 0px auto;
+	font-weight: 100;
+	/* font-family: url(HelveticaNeueUltraLight.ttf) */
+}
+
+#content{
+	display: block;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	margin: 30px 0px 51px;
+}
+
+footer{
+	position: fixed;
+	height: 20px;
+	width: 100%;
+	bottom: 0px;
+	background-color: rgb(240,240,240);
+	border-top: 1px solid rgb(200,200,200);
+	text-align: center;
+	line-height: 20px;
+	font-size: 15px;
+	color: #999999;
+}
+

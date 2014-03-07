@@ -42,7 +42,7 @@ body{
 	text-align: center;
 	color: white;
 	font-size: 50px;
-	font-family: HelveticaNeue-UltraLight;
+	font-family: url (/HelveticaNeueThin.ttf);
 }
 
 #me{
