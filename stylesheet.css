@@ -71,7 +71,6 @@ body{
 .section{
 	height: 400px;
 	width: 100%;
-	
 	box-sizing:border-box;
 	-moz-box-sizing:border-box;
 	font-size: 20px;
@@ -80,9 +79,9 @@ body{
 .limit{
 	max-width: 1280px;
 	min-width: 640px;
-	margin: 0px auto 10px;
+	margin: 0px auto;
 	height: 360px;
-	padding: 20px 0px 20px 20px;
+	padding: 20px;
 }
 
 h2{
@@ -92,7 +91,7 @@ h2{
 	font-family: HelveticaNeue-UltraLight;
 	font-weight: normal;
 	width: 62%;
-	margin: 20px 0px 20px 0px;
+	margin: 20px 0px;
 }
 
 .description{
@@ -116,6 +115,22 @@ h2{
 	background-size: 199px 281px;
 	height: 281px;
 	width: 199px;
+}
+
+
+#wrapperlogo{
+	width: 38%;
+	height: 100%;
+	float: left;
+}
+
+#imglogo{
+	margin: 55px auto;
+	display: block;
+	background-image: url(logo.png);
+	background-size: 250px 250px;
+	height: 250px;
+	width: 250px;
 }
 
 
