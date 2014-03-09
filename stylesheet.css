@@ -1,7 +1,13 @@
 @font-face { 
 font-family: "HelveticaNeue-Light"; 
-src: url("/HelveticaNeueLight.tff"); 
+src: url("HelveticaNeueLight.tff"); 
 }
+
+@font-face { 
+font-family: "HelveticaNeue-UltraLight"; 
+src: url("HelveticaNeueUltraLight.ttf"); 
+}
+
 
 body{
 	font-family: HelveticaNeue-Light;
@@ -54,7 +60,7 @@ body{
 	text-align: center;
 	color: white;
 	font-size: 50px;
-	font-family: url (/HelveticaNeueThin.ttf);
+	font-family: HelveticaNeue-Light;
 }
 
 #me{
