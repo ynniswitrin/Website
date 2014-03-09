@@ -1,7 +1,7 @@
 body{
-	font-family: 'HelveticaNeue-Light', 'Dosis', Arial, Helvetica, sans-serif;
+	font-family: 'HelveticaNeue-Light', 'Open Sans', Arial, Helvetica, sans-serif;
 	margin: 0px 0px 0px 0px;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 #landing{
@@ -50,8 +50,8 @@ body{
 	text-align: center;
 	color: white;
 	font-size: 50px;
-	font-family: 'HelveticaNeue-UltraLight','Dosis', Arial, Helvetica, sans-serif;
-	font-weight: 200;
+	font-family: 'HelveticaNeue-UltraLight','Open Sans', Arial, Helvetica, sans-serif;
+	font-weight: 300;
 }
 
 #me{
@@ -90,8 +90,8 @@ h2{
 	color: black;
 	text-align: left;
 	font-size: 50px;
-	font-family: 'HelveticaNeue-UltraLight', 'Dosis', Arial, Helvetica, sans-serif;
-	font-weight: 200;
+	font-family: 'HelveticaNeue-UltraLight', 'Open Sans', Arial, Helvetica, sans-serif;
+	font-weight: 300;
 	width: 62%;
 	margin: 20px 0px;
 }
@@ -150,8 +150,8 @@ h3{
 	color: #444444;
 	text-align: center;
 	font-size: 50px;
-	font-family: 'HelveticaNeue-UltraLight', 'Dosis', Arial, Helvetica, sans-serif;
-	font-weight: 200;
+	font-family: 'HelveticaNeue-UltraLight', 'Open Sans', Arial, Helvetica, sans-serif;
+	font-weight: 300;
 	width: 100%;
 	margin: 15px 0px 20px 0px;
 }
