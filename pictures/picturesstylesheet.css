@@ -1,6 +1,6 @@
 body{
-	/* font-family: url(HelveticaNeueThin.ttf); */
-	font-family: HelveticaNeue-Light;
+	font-family: 'HelveticaNeue-Light','Dosis', Arial, Helvetica, sans-serif;
+	font-weight: 300;
 	margin: 0px 0px 0px 0px;
 }
 
@@ -52,8 +52,8 @@ header{
 	line-height: 50px;
 	font-size: 35px;
 	margin: 0px auto;
-	font-weight: 100;
-	/* font-family: url(HelveticaNeueUltraLight.ttf) */
+	font-family: 'HelveticaNeue-Light','Dosis', Arial, Helvetica, sans-serif;
+	font-weight: 200;
 }
 
 #content{
