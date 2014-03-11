@@ -5,10 +5,10 @@ body{
 }
 
 #landing{
-	height:600px;
+	height:600px; 
 	width: 100%;
 	/* background-image: url(http://www.stgm-melk.at/home/stone.jpg); */
-	background-image:  url(gras.jpg);
+	background-image:  url(gras.jpg); 
 
 }
 
@@ -16,7 +16,7 @@ body{
 	max-width: 1280px;
 	min-width: 640px;
 	margin: 0px auto;
-	height: 600px;
+	height: 600px; */
 }
 
 #foto{
