@@ -95,7 +95,7 @@ h2{
 }
 
 .description,.description-right{
-	text-align: center;
+	text-align: justify;
 	width: 100%;
 	margin: auto 0px;
 	color: gray;
