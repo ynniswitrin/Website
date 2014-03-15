@@ -102,7 +102,14 @@ h2{
 	width: 62%;
 	margin: auto 0px;
 	color: gray;
-	
+}
+
+.description-right{
+	text-align: justify;
+	width: 62%;
+	margin: auto 0px;
+	color: gray;
+	float: right;
 }
 
 #wrapperklopa{
