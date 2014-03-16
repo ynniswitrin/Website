@@ -6,7 +6,7 @@ body{
 
 #landing{
 	height:600px; 
-	width: 100%;
+	min-width: 640px;
 	/* background-image: url(http://www.stgm-melk.at/home/stone.jpg); */
 	background-image:  url(gras.jpg); 
 }
@@ -61,7 +61,7 @@ body{
 
 
 #arrow{
-	width: 100%;
+	min-width: 640px;
 	background-image: url(arrow.png);
 	background-size: 90px 40px;
 	background-position: center;
@@ -72,7 +72,7 @@ body{
 
 .section{
 	height: 400px;
-	width: 100%;
+	min-width: 640px;
 	box-sizing:border-box;
 	-moz-box-sizing:border-box;
 	font-size: 20px;
@@ -160,7 +160,7 @@ h2{
 
 footer{
 	height: 300px;
-	width: 100%;
+	min-width: 640px;
 	padding: 20px 20px 20px 20px;
 	box-sizing:border-box;
 	-moz-box-sizing:border-box;
@@ -174,7 +174,7 @@ h3{
 	font-size: 50px;
 	font-family: 'HelveticaNeue-UltraLight', 'Open Sans', Arial, Helvetica, sans-serif;
 	font-weight: 300;
-	width: 100%;
+	min-width: 640px;
 	margin: 15px 0px 20px 0px;
 }
 
@@ -182,13 +182,13 @@ h3{
 	color: #999999;
 	font-size: 15px;
 	text-align: center;
-	width: 100%;
+	min-width: 640px;
 	display: block;
 	margin: auto;
 }
 
 #contact{
-	width: 100%;
+	min-width: 640px;
 	height: 241px;
 
 }
@@ -268,7 +268,7 @@ h3{
 /* 404 und pictures */
 header{
 	height:50px;
-	width: 100%;
+	min-width: 640px;
 	border-bottom: 1px solid rgb(200,200,200);
 	background-color: rgb(240,240,240);
 	/* padding: 13px; */
@@ -322,7 +322,7 @@ header{
 	display: block;
 	background-position: center;
 	background-repeat: no-repeat;
-	width: 100%;
+	min-width: 640px;
 	margin: 30px 0px 51px;
 	cursor: -webkit-zoom-in; 
 	cursor: -moz-zoom-in;
@@ -332,7 +332,7 @@ header{
 .footer{
 	position: fixed;
 	height: 20px;
-	width: 100%;
+	min-width: 640px;
 	bottom: 0px;
 	background-color: rgb(240,240,240);
 	border-top: 1px solid rgb(200,200,200);
