@@ -8,7 +8,8 @@ body{
 	height:600px; 
 	width: 100%;
 	/* background-image: url(http://www.stgm-melk.at/home/stone.jpg); */
-	background-image:  url(gras.jpg); 
+	background:  url(blur.jpg) center center no-repeat fixed; 
+
 }
 
 
